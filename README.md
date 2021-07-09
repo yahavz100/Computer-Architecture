@@ -4,10 +4,9 @@ Main goal is to understand Computer Architecture from ground up, in order to ach
 
 - Exercise 3 - Implementation of P-String using Assembler <br/>
 - Exercise 5 - Code Optimization <br/>
-&emsp; Using optimization techniques: <br/>
-&emsp; &emsp; - Avoiding expensive calculations (pointers arithmetics, multiply, etc). <br/>
-&emsp; &emsp; - Understanding memory layout and multi-dimensional arrays format. <br/>
-&emsp; &emsp; - Loop unrolling. <br/>
-&emsp; &emsp; - Code motion. <br/>
-&emsp; &emsp; - Reducing function calls to minimum. <br/>
-&emsp; &emsp; - Using macros. <br/>
+&emsp; - Avoiding expensive calculations (pointers arithmetics, multiply, etc). <br/>
+&emsp; - Understanding memory layout and multi-dimensional arrays format. <br/>
+&emsp; - Loop unrolling. <br/>
+&emsp; - Code motion. <br/>
+&emsp; - Reducing function calls to minimum. <br/>
+&emsp; - Using macros. <br/>
